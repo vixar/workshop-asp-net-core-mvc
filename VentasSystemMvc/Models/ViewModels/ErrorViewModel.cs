@@ -1,8 +1,8 @@
 using System;
 
-namespace VentasSystemMvc.Models
+namespace VentasSystemMvc.Models.ViewModels
 {
-    public class ErrorViewModel
+    public class  ErrorViewModel
     {
         public string RequestId { get; set; }
 
